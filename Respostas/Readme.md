@@ -47,3 +47,7 @@ E finalmente fiz os cálculos :
      0  +  (-20,88) +   0  <br>
      
 #### Resultando em : 32,76 ou aproxidamente 33 
+
+### QUESTÃO 04: quando você tiver implementado seu código, tente executá-lo em <br>test_images/pigbird.png com o seguinte kernel 9 × 9:
+
+####Resposta = python test.py TestInvertida.quest_4
