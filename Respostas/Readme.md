@@ -43,7 +43,7 @@ Depois disso troquei o kernel proposto na questão do K nas posições indicadas
  
 E finalmente fiz os cálculos :
 
-     0  +    (-3,71) +   0  +
+   0  +    (-3,71) +   0  +
 (-58,05)  +152,4 + (-37) +
      0  +  (-20,88) +   0  
      
