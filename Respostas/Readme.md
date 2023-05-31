@@ -1,5 +1,4 @@
-### 1)QUESTÃO 01: se você passar essa imagem pelo filtro de inversão, qual seria o
-output esperado? Justifique sua resposta.
+### 1)QUESTÃO 01: se você passar essa imagem pelo filtro de inversão, qual seria o <br>output esperado? Justifique sua resposta.
 
 • altura: 1
 
