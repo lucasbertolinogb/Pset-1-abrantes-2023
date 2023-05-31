@@ -8,7 +8,7 @@ output esperado? Justifique sua resposta.
 pixels: [29, 89, 136, 200]
 
 Resposta: seria pixel: [226, 166, 119, 55] , imagine um bastão nele temos um ponto perto de uma 
-estremida e precisamos calcular qual seria a distância para chegar do outro lado e estando na mesma
+estremidade e precisamos calcular qual seria a distância para chegar do outro lado e estando na mesma
 distância no final do bastão... ou seja , para eu fazer isso eu precisaria saber o tamanho do
 bastão , no caso da questão é 255 , e para calcular para que um objeto esteja na mesma distância so que do outro
 lado eu precisaria calcular o : tamanho pego - tamanho do bastão = X . Porém , o número seria 
