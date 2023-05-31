@@ -6,7 +6,7 @@
 
 pixels: [29, 89, 136, 200]
 
-Resposta: seria pixel: [226, 166, 119, 55] , imagine um bastão nele temos um ponto perto de uma 
+#### Resposta: seria pixel: [226, 166, 119, 55] <br>, imagine um bastão nele temos um ponto perto de uma 
 estremidade e precisamos calcular qual seria a distância para chegar do outro lado e estando na mesma
 distância no final do bastão... ou seja , para eu fazer isso eu precisaria saber o tamanho do
 bastão , no caso da questão é 255 , e para calcular para que um objeto esteja na mesma distância so que do outro
@@ -14,11 +14,11 @@ lado eu precisaria calcular o : tamanho pego - tamanho do bastão = X . Porém ,
 negativo então eu iria inverter o resultado ,
 logo me retornando um obejeto do outro lado na mesma distância da extremidade 
 
-2)QUESTÃO 02: faça a depuração e, quando terminar, seu código deve conseguir passar em todos os testes do grupo de teste TestInvertida (incluindo especificamente o que você acabou de criar). Execute seu filtro de inversão na imagem test_images/bluegill.png, salve o resultado como uma imagem PNG e salve a imagem em seu repositório GitHub.
+### 2)QUESTÃO 02: faça a depuração e, quando terminar, seu código deve conseguir passar em todos os testes do grupo de teste TestInvertida (incluindo especificamente o que você acabou de criar). Execute seu filtro de inversão na imagem test_images/bluegill.png, salve o resultado como uma imagem PNG e salve a imagem em seu repositório GitHub.
 
-Resposta = usando o comando : python test.py TestInvertida.test_invertida_2
+#### Resposta = usando o comando : python test.py TestInvertida.test_invertida_2
 
-QUESTÃO 03: considere uma etapa de correlacionar uma imagem com o seguinte
+### QUESTÃO 03: considere uma etapa de correlacionar uma imagem com o seguinte
 kernel:
 
 Na questão é usado um calculo para calcular o valor central: 
@@ -46,4 +46,4 @@ E finalmente fiz os cálculos :
 (-58,05)  +152,4 + (-37) + <br>
      0  +  (-20,88) +   0  <br>
      
-Resultando em : 32,76 ou aproxidamente 33 
+#### Resultando em : 32,76 ou aproxidamente 33 
