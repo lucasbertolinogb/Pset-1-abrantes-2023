@@ -31,20 +31,20 @@ Ix−1,y+1 × k0,2 + Ix,y+1 × k1,2 + Ix+1,y+1 × k2,2 (3)<br>
 Nisso eu peguei o pixel da imagem(I) do meio como posição I(1,1) como o centro, e dela fui trocando nos cálculos 
 e nessa questão ficou assim:
 
-  Ox,y =80 × k0,0 + 53× k1,0 +  99 × k2,0+(1)
- 129× k0,1 +127× k1,1 +148 × k2,1+(2)
- 175 × k0,2 + 174 × k1,2 + 193 × k2,2 (3)  
+  Ox,y =80 × k0,0 + 53× k1,0 +  99 × k2,0+(1)<br>
+ 129× k0,1 +127× k1,1 +148 × k2,1+(2)<br>
+ 175 × k0,2 + 174 × k1,2 + 193 × k2,2 (3)  <br>
  
 Depois disso troquei o kernel proposto na questão do K nas posições indicadas ,resultando nesse cálculo:
 
-  Ox,y =80 × 0 + 53× (-0,07) +  99 ×0+(1)
- 129× (-0,45) +127× 1,2 +148 × (-0,25)+(2)
- 175 × 0 + 174 × k1,2 + 193 × 0 (3)  
+  Ox,y =80 × 0 + 53× (-0,07) +  99 ×0+(1)<br>
+ 129× (-0,45) +127× 1,2 +148 × (-0,25)+(2)<br>
+ 175 × 0 + 174 × k1,2 + 193 × 0 (3)  <br>
  
 E finalmente fiz os cálculos :
 
-   0  +    (-3,71) +   0  +
-(-58,05)  +152,4 + (-37) +
-     0  +  (-20,88) +   0  
+   0  +    (-3,71) +   0  +<br>
+(-58,05)  +152,4 + (-37) + <br>
+     0  +  (-20,88) +   0  <br>
      
 Resultando em : 32,76 ou aproxidamente 33 
