@@ -24,9 +24,9 @@ kernel:
 
 Na questão é usado um calculo para calcular o valor central: 
 
-Ox,y =Ix−1,y−1 × k0,0 + Ix,y−1 × k1,0 + Ix+1,y−1 × k2,0+ (1)
-Ix−1,y × k0,1 + Ix,y × k1,1 + Ix+1,y × k2,1+ (2)
-Ix−1,y+1 × k0,2 + Ix,y+1 × k1,2 + Ix+1,y+1 × k2,2 (3)
+Ox,y =Ix−1,y−1 × k0,0 + Ix,y−1 × k1,0 + Ix+1,y−1 × k2,0+ (1)<br>
+Ix−1,y × k0,1 + Ix,y × k1,1 + Ix+1,y × k2,1+ (2)<br>
+Ix−1,y+1 × k0,2 + Ix,y+1 × k1,2 + Ix+1,y+1 × k2,2 (3)<br>
 
 Nisso eu peguei o pixel da imagem(I) do meio como posição I(1,1) como o centro, e dela fui trocando nos cálculos 
 e nessa questão ficou assim:
